@@ -1,3 +1,5 @@
+![logo](https://github.com/SaiNagaAnirudh13/SaiNagaAnirudh13/blob/main/Screenshot%202023-08-31%20184139.png)
+
 <h1 align="center">Hi 👋, I'm Thanga Sai Naga Anirudh</h1>
 <h3 align="center">A passionate frontend developer and an AI & ML Student from India</h3>
 
