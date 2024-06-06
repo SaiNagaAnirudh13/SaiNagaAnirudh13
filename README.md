@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sainagaanirudh@gmail.com**
 
-- ⚡ Fun fact **people call me duumbu**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
